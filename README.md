@@ -1,6 +1,6 @@
-# LeetCode-Solutions
+# LeetCode-GFG-Solutions
 
-This repository contains my C++ solutions to LeetCode problems, organized by topic and difficulty.  
+This repository contains my C++ solutions to problems from LeetCode and GeeksforGeeks, organized by topic for structured DSA preparation.  
 It's part of my data structures and algorithms (DSA) practice for internship and placement preparation.
 
 ## Topics Covered:
